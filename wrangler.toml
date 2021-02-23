@@ -1,0 +1,9 @@
+name = "localize"
+type = "webpack"
+account_id = "032aa862be071ee175c18b7b6d6f81c2"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+  { binding = "LOCALIZE_STORE", id = "7b18b7b245764b269dc7ee1e92dbd0d7"}
+]
